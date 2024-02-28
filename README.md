@@ -8,11 +8,12 @@
 </ul>
 
 <div style="width:100%;height:4px;color:#f6f8fa;"></div>
+
 <a href="https://www.linkedin.com/in/claylton-roque/" alt="Linkdin" target="_blank">
- <img href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 </a>
 <a href="https://www.youtube.com/@ClayltonRoque" alt="Youtube" target="_blank">
- <img href="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
+ <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
 </a>
 
 

@@ -1,12 +1,11 @@
 <h1 style="padding:20px;">World say Hello and i say Claylton Roque</h1>
 <div style="width:100%;height:4px;color:#f6f8fa;"></div>
 
-<ul>
+<ul style="padding:20px;">
   <li>Cursando Analise de sistemas e desenvolvimento Uniamericas</li>
   <li>Criador de conteudo</li>
   <li>Vue lover, react, nest, node</li>
 </ul>
-
 <div style="width:100%;height:4px;color:#f6f8fa;"></div>
 
 <a href="https://www.linkedin.com/in/claylton-roque/" alt="Linkdin" target="_blank">

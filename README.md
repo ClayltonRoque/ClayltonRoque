@@ -1,13 +1,10 @@
-<h1 style="padding:20px;">Hi Claylton Roque here</h1>
-<div style="width:100%;height:4px;color:#f6f8fa;"></div>
-
-<ul style="padding:20px;">
-  <li>Cursando Analise de sistemas e desenvolvimento Uniamericas</li>
-  <li>Criador de conteudo</li>
-  <li>Vue lover, react, nest, node</li>
+<h1>Hi Claylton Roque here</h1>
+<ul>
+  <li>Cursando Analise de sistemas e desenvolvimento</li>
+  <li>Youtuber</li>
+  <li>Vue lover/li>
 </ul>
-<div style="width:100%;height:4px;color:#f6f8fa;"></div>
-
+<h1>Found me in:</h1>
 <a href="https://www.linkedin.com/in/claylton-roque/" alt="Linkdin" target="_blank">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 </a>

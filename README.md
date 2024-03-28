@@ -15,15 +15,18 @@
 </div>
 
 <h1>&#128640;Social media</h1>
-<a href="https://www.linkedin.com/in/claylton-roque/" alt="Linkdin" target="_blank">
- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+<div>
+  <a href="https://www.linkedin.com/in/claylton-roque/" alt="Linkdin" target="_blank">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a>
-  <img src="https://img.shields.io/badge/-Medium-6633cc?style=for-the-badge&logo=Elixir&logoColor=white&color=black&link=https://medium.com/@claylton202"
+<a href="https://medium.com/@claylton202">
+  <img src="https://img.shields.io/badge/-Medium-6633cc?style=for-the-badge&logo=Elixir&logoColor=white&color=black" />
 </a>
 <a href="https://www.youtube.com/@ClayltonRoque" alt="Youtube" target="_blank">
- <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
+ <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
+</div>
+
 
 
 

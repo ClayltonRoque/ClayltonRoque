@@ -19,7 +19,7 @@
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 </a>
 <a>
-  <img src="https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://medium.com/@claylton202"
+  <img src="https://img.shields.io/badge/-Medium-6633cc?style=for-the-badge&logo=Elixir&logoColor=white&color=black&link=https://medium.com/@claylton202"
 </a>
 <a href="https://www.youtube.com/@ClayltonRoque" alt="Youtube" target="_blank">
  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"

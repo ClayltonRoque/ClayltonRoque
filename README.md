@@ -20,7 +20,7 @@
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://medium.com/@claylton202">
- <img src="https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium" />
+ <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium" />
 </a>
 <a href="https://www.youtube.com/@ClayltonRoque" alt="Youtube" target="_blank">
  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" />

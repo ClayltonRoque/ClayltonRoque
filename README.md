@@ -21,6 +21,9 @@
 <a href="https://www.youtube.com/@ClayltonRoque" alt="Youtube" target="_blank">
  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
 </a>
+<a>
+  <img src="https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://medium.com/@claylton202"/>
+</a>
 
 
 
